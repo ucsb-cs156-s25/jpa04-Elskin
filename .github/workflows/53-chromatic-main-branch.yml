@@ -11,7 +11,7 @@ on:
       - .github/workflows/53-chromatic-main-branch.yml
 
 env:
-  GH_TOKEN: ${{ github.token }}
+  GH_TOKEN: ${{ chpt_acbcb078ea36644 }}
 
 permissions:
   contents: write
